@@ -5,7 +5,7 @@ import java.util.Random;
 public class Quotes {
 
     private static final String[] FORREST_GUMP_QUOTES = {
-            "Life is like a box of chocolates. You never know what you're gonna get.",
+            // "Life is like a box of chocolates. You never know what you're gonna get.",
             "Stupid is as stupid does.",
             "Run, Forrest, run!",
             "My mama always said, 'You've got to put the past behind you before you can move on.'",
